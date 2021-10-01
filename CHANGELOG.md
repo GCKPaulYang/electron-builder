@@ -1,3 +1,13 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v22.14.3...v) (2021-10-01)
+
+
+### Bug Fixes
+
+* add appCannotBeClosed text for zh_CN ([#6287](https://github.com/electron-userland/electron-builder/issues/6287)) ([10b4727](https://github.com/electron-userland/electron-builder/commit/10b47273c32c32df17dfb910feb4a7704c83da91))
+* **publish:** Bitbucket publish can have username different from owner ([#6293](https://github.com/electron-userland/electron-builder/issues/6293)) ([8ebfc96](https://github.com/electron-userland/electron-builder/commit/8ebfc96276bffe0bc1ad394c5ae6843976e01709))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v22.14.2...v) (2021-09-25)
 
 
