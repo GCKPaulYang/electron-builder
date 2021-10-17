@@ -195,7 +195,7 @@ onlyForMe:
   es: Solo para mí.
   da: Kun til mig
   ja: 現在のユーザーのみにインストールする
-  ko: &me 전용
+  ko: 현재 사용자만 설치(&m)
 forAll:
   en: Anyone who uses this computer (&all users)
   de: Für alle Benutzer dieses Computers (&alle Benutzer)
@@ -217,7 +217,7 @@ forAll:
   es: Cualquiera que utilice este ordenador (todos los usuarios)
   da: Enhver, der bruger denne computer (alle brugere)
   ja: このコンピューターを使用しているすべてのユーザー用にインストールする
-  ko: 이 컴퓨터를 사용하는 모든 사람(&모든 사용자)
+  ko: 이 컴퓨터를 사용하는 모든 사용자용으로 설치(&a)
 loginWithAdminAccount:
   en: You need to login with an account that is a member of the admin group to continue...
   de: Um die Installation fortzusetzen müssen Sie sich mit einem Administrator-Account anmelden...
